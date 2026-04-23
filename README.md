@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 I'm Muhammad Shahzaib Khan an AI Engineer building intelligent automation systems at Zas Financials Ltd, turning complex problems into scalable ML solutions. <br>Always open to collaborating with founders and teams looking to embed real AI into their products. <br>Currently diving deeper into LLMs and agentic AI systems. Ask me about NLP, computer vision, or model deployment. <br>Fun fact: I speak to machines in Python, but I'm also learning German and Turkish. 🤖<br><br>
 
 
@@ -15,4 +15,3 @@ I'm Muhammad Shahzaib Khan an AI Engineer building intelligent automation system
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
